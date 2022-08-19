@@ -54,7 +54,7 @@ function Header() {
             <div className="logo">
             <div className="logo-png">                   
                     <Link to="/">
-                        <img src={logo} alt="" width="350" />
+                        <img src="log12.png" alt="" width="350" />
                     </Link>
                 </div>
             </div>
